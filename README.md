@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Cong%20👋&fontSize=42&fontAlignY=32&desc=Junior%20Fullstack%20Developer%20%7C%20Building%20Web%20%26%20Mobile%20Solutions&descAlignY=51&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F8EF7&center=true&vCenter=true&random=false&width=600&lines=Passionate+about+Clean+Code+%F0%9F%92%BB;Fullstack+Web+%26+Mobile+Development+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A)](https://git.io/typing-svg)
 
@@ -162,12 +158,6 @@ const cong = {
 </div>
 
 ### 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Cong12212/Cong12212/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 > **Note:** If the snake animation doesn't appear, make sure you've enabled GitHub Actions in your repository and the workflow has run successfully.
 
