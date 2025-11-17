@@ -28,7 +28,7 @@ const cong = {
 - 🌱 Currently mastering **React Native & Modern JS**
 - 👨‍💻 Building projects with **MERN Stack**
 - 💬 Ask me about **React, Node.js, JavaScript**
-- 📫 Reach me: **congdeptrai12212@gmail.com**
+- 📫 Reach me: **congglpro2547@gmail.com**
 - ⚡ Fun fact: **Coffee + Code = Magic ☕️✨**
 
 <br clear="right"/>
