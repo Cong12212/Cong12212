@@ -7,8 +7,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-
-```javascript
+```js
 const cong = {
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
     role: "Junior Fullstack Developer",
