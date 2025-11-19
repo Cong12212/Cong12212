@@ -11,9 +11,9 @@
 const cong = {
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
     role: "Junior Fullstack Developer",
-    education: "Computer Science Student",
+    education: "University Of Science",
     lookingFor: "Opportunities in Web/Mobile Development",
-    currentFocus: ["React.js", "React Native", "Node.js", "Full Stack Architecture"],
+    currentFocus: ["React.js", "Flutter", "Laravel", "Full Stack Architecture"],
     hobbies: ["Coding 💻", "Learning Tech 📖", "Building Projects 🚀"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
