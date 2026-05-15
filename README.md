@@ -81,12 +81,12 @@ const cong = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cong12212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cong12212&theme=tokyonight" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cong12212&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cong12212&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cong12212&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
@@ -95,11 +95,11 @@ const cong = {
 
 <div align="center">
 
-[![WebSale](https://github-readme-stats.vercel.app/api/pin/?username=Cong12212&repo=WebSale&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Cong12212/WebSale)
-[![UserRegistrationAPI](https://github-readme-stats.vercel.app/api/pin/?username=Cong12212&repo=UserRegistrationAPI&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Cong12212/UserRegistrationAPI)
+[🛒 WebSale](https://github.com/Cong12212/WebSale)
+[🔐 UserRegistrationAPI](https://github.com/Cong12212/UserRegistrationAPI)
 
-[![Gallery](https://github-readme-stats.vercel.app/api/pin/?username=Cong12212&repo=Gallery&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Cong12212/Gallery)
-[![Android](https://github-readme-stats.vercel.app/api/pin/?username=Cong12212&repo=Android&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/Cong12212/Android)
+[🖼️ Gallery](https://github.com/Cong12212/Gallery)
+[📱 Android](https://github.com/Cong12212/Android)
 
 </div>
 
